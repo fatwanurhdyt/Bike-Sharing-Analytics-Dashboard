@@ -16,7 +16,7 @@ The project is divided into two main components:
 
 ## 🌐 Live Dashboard
 You can access the interactive dashboard here:  
-👉 **[Insert Your Streamlit App URL Here]**
+👉 **https://bike-sharing-analytics-dashboard.streamlit.app/**
 
 ---
 
